@@ -1,0 +1,41 @@
+{
+    "arabica": [
+        {
+            "foto": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRx97FDU8D75M1QjJpSaITduAvHUcJtymd-uOdthwLoqI83sSVg7S8prQmmVlmHXwdP7Xma6ysTLpN9I4HCq_xYeqvH2Ihd4JdAEid758A&usqp=CAE",
+            "nama": "Kopi Arabica Temanggung",
+            "size": "500 Gram",
+            "harga": "216.000",
+            "link": "#"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQHS01wd75O0SvWkkJ9FeRtdkAIn0rS631h0pAd42Ytt8XHbIbYWTq2HTBPCMW5oJVzcHGVGmZk81_UHPWnlDpcQKac4dVTXij8A9C7_Womz8YxWdVaaX1Tig&usqp=CAE",
+            "nama": "Kopi Arabica Agropulo",
+            "size": "200 Gram",
+            "harga": "236.000",
+            "link": "#"
+        },
+        {
+            "foto": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQSOfPPGLNZsiXPOZfsgyX9qZwC294XLqdP0zgWFVvwIbvgrbphMrs8pT22IJVAeLTpDKaavqeWGFNuUIosTQmrlX7vlHB41qT1Wk8_xgnS&usqp=CAE",
+            "nama": "Kopi Arabica Kintamani",
+            "size": "100 Gram",
+            "harga": "275.000",
+            "link": "#"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTx0G3-_j3r5egMBPG1yfI3iddEKyR8u8dz4b5QeBuNFTgt-7rcGvQZ-wi6SLRtHGTuBWGITo8M8MpkV24Gi2nXaO8pcMSVhoHfzuOdIWuok48dkuTQ_a5X&usqp=CAE",
+            "nama": "Kopi Robusta Balicafe",
+            "size": "200 Gram",
+            "harga": "84.500",
+            "link": "#"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRT8Gc0FXcW9jtrXnN-10rE9w-1hgG0O-uOe04rv2Q558oUunfiGbFbLlHM_vAMvVOIfj3_AjOdDEG9MdO5jo8gOkdentW8Zz2GojRZJudNZMQCQB6CR2_1&usqp=CAE",
+            "nama": "Kopi Robusta Mahari",
+            "size": "18 Gram",
+            "harga": "48.000",
+            "link": "#"
+        }
+    ]
+}
